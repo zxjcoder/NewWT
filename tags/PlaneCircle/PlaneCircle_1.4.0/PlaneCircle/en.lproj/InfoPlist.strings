@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  PlaneCircle
+
+  Created by Daniel on 6/1/16.
+  Copyright © 2016 WT. All rights reserved.
+*/
+
+"CFBundleName" = "PlaneLive";
+"CFBundleDisplayName" = "PlaneLive";
+
+"NSCameraUsageDescription" = "Use in answer content or user Avatar";
+"NSPhotoLibraryUsageDescription" = "Use in answer content or user Avatar";

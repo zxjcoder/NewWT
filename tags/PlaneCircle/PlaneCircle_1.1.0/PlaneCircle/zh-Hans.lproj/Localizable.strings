@@ -1,0 +1,64 @@
+/* 
+  Localizable.strings
+  PlaneCircle
+
+  Created by Daniel on 6/1/16.
+  Copyright © 2016 WT. All rights reserved.
+*/
+
+
+"kCancel" = "取消";
+"kDone" = "完成";
+"kDetermine" = "确定";
+"kPrompt" = "提示";
+"kEdit" = "编辑";
+"kDelete" = "删除";
+"kShare" = "分享";
+"kExit" = "退出";
+"kSubmit" = "提交";
+
+"kCancelCollection" = "取消收藏";
+"kCancelAttention" = "取消关注";
+
+"kCShareTitleSuccess" = "分享成功";
+"kCShareTitleNoAuthorizeError" = "尚未授权";
+"kCShareTitleError" = "分享失败";
+"kCShareTitleCancel" = "取消分享";
+
+"kCQQNoInstalled" = "请安装QQ客户端";
+"kCQQNoSupportApi" = "请更新QQ客户端";
+
+"kCWeChatNoInstalled" = "请安装微信客户端";
+"kCWeChatNoSupportApi" = "请更新微信客户端";
+
+"kCSinaWeiboNoInstalled" = "请安装新浪微博客户端";
+"kCSinaWeiboNoSupportApi" = "请更新新浪微博客户端";
+
+"kCQQFriend" = "QQ好友";
+"kCQZone" = "QQ空间";
+"kCWeChat" = "微信";
+"kCWeChatTimeline" = "微信朋友圈";
+
+"kCPhotograph" = "拍照";
+"kCAlbum" = "相册";
+"kCMale" = "男";
+"kCFemale" = "女";
+"kCPhoto" = "头像";
+"kCNickName" = "昵称";
+"kCGender" = "性别";
+
+"kCNickNameContent" = "取个好听的昵称吧";
+"kCGenderSecrecy" = "保密";
+
+"kCMsgDoneExitLoginUser" = "确定退出当前登录用户吗?";
+"kCMsgPayNotSupported" = "客户端不支持支付功能";
+"kCMsgPaySuccess" = "已经支付成功";
+"kCMsgPayCancel" = "用户取消支付请求";
+"kCMsgPayAuthDeny" = "支付请求授权失败";
+"kCMsgPayCommon" = "支付失败,请重试";
+"kCMsgSendFail" = "发送支付请求失败";
+"kCMsgPaying" = "正在支付,请稍等";
+"kCMsgPayContentError" = "网络连接出错";
+
+"kCUseAgreement" = "使用协议";
+

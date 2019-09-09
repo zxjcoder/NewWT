@@ -1,0 +1,19 @@
+
+
+function ZCustomBridge() {
+    var _bridge;
+};
+
+ZCustomBridge.prototype.onBridgeReady = function() {
+    _bridge = window.webkit.messageHandlers;
+};
+
+ZCustomBridge.prototype.get = function(key,value) {
+    var argJson = {'key':key,'value':value};
+    _bridge.get.postMessage(argJson);
+}
+
+var wutonglive = new ZCustomBridge();
+wutonglive.onBridgeReady();
+
+

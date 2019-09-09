@@ -1,0 +1,27 @@
+
+platform :ios, '8.0'
+target 'PlaneLive' do
+    
+    pod 'AFNetworking'
+    pod 'FMDB'
+    pod 'FMDB/SQLCipher'
+    pod 'MBProgressHUD'
+    pod 'MJExtension'
+    pod 'MJRefresh'
+    pod 'SDWebImage'
+    pod 'SECoreTextView'
+    pod 'SDCycleScrollView'
+    pod 'TYAttributedLabel'
+    pod 'TZImagePickerController'
+    pod 'Bugly'
+    pod 'UMengAnalytics-NO-IDFA'
+    pod 'MOBFoundation'
+    pod 'ShareSDK3'
+    pod 'ShareSDK3/ShareSDKUI'
+    pod 'ShareSDK3/ShareSDKPlatforms/QQ'
+    pod 'ShareSDK3/ShareSDKPlatforms/WeChat'
+    pod 'ShareSDK3/ShareSDKPlatforms/Evernote'
+    pod 'ShareSDK3/ShareSDKConfigurationFile'
+    pod 'ShareSDK3/ShareSDKExtension'
+    
+end

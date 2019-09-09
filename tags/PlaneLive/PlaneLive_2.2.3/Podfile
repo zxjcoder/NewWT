@@ -1,0 +1,45 @@
+
+platform :ios, '8.0'
+# use_frameworks!
+# ignore all warnings from all pods
+inhibit_all_warnings!
+
+target 'PlaneLive' do
+    
+    pod 'AFNetworking'
+    
+    pod 'Bugly'
+    pod 'DACircularProgress'
+    
+    pod 'FMDB'
+    pod 'FMDB/SQLCipher'
+    
+    pod 'MJExtension'
+    pod 'MJRefresh'
+    pod 'MBProgressHUD'
+    pod 'Masonry'
+    
+    pod 'SDWebImage'
+    pod 'SECoreTextView'
+    pod 'SDCycleScrollView'
+    pod 'TYAttributedLabel'
+    pod 'TZImagePickerController'
+    
+    pod 'ZPushKit'
+    pod 'ZPlayerKit'
+    # 高德地图
+    pod 'AMap3DMap-NO-IDFA'
+    pod 'AMapLocation-NO-IDFA'
+    
+    pod 'UMengAnalytics-NO-IDFA'
+    pod 'MOBFoundation'
+    pod 'ShareSDK3'
+    pod 'ShareSDK3/ShareSDKUI'
+    pod 'ShareSDK3/ShareSDKPlatforms/QQ'
+    pod 'ShareSDK3/ShareSDKPlatforms/WeChat'
+    pod 'ShareSDK3/ShareSDKPlatforms/Evernote'
+    pod 'ShareSDK3/ShareSDKConfigurationFile'
+    pod 'ShareSDK3/ShareSDKExtension'
+    
+end
+

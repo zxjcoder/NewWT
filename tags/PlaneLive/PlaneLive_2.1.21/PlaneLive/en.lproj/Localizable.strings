@@ -1,0 +1,681 @@
+/*
+ Localizable.strings
+ PlaneCircle
+ 
+ Created by Daniel on 6/1/16.
+ Copyright © 2016 WT. All rights reserved.
+ */
+
+"kDeleteAll" = "删除全部";
+"kCancel" = "取消";
+"kDone" = "完成";
+"kDetermine" = "确定";
+"kClear" = "清空";
+"kPrompt" = "提示";
+"kLogout" = "注销";
+"kEdit" = "编辑";
+"kDelete" = "删除";
+"kShare" = "分享";
+"kSubmit" = "提交";
+"kClose" = "关闭";
+
+"kSetting" = "设置";
+"kReport" = "举报";
+"kDownload" = "下载";
+"kCollection" = "收藏";
+
+"kNext" = "下一步";
+"kRelease" = "发布";
+
+"kCut" = "裁剪";
+
+"kInvitation" = "邀请";
+
+"kPlaneLive" = "梧桐Live";
+
+"kHome" = "首页";
+"kFound" = "发现";
+"kSubscribe" = "订阅";
+"kTopic" = "话题";
+"kCircle" = "圈子";
+"kQuestion" = "问题";
+"kAnswer" = "答案";
+"kToolBar" = "工具栏";
+"kRank" = "榜单";
+"kPractice" = "实务";
+"kMyInfo" = "我的";
+"kFans" = "粉丝";
+"kRejoin" = "回答";
+
+"kBindingSuccess" = "成功绑定";
+"kUnBindingSuccess" = "成功解除绑定";
+"kChangePhoneSuccess" = "成功更换手机号";
+"kAuthorizationing" = "正在授权...";
+"kUnBinding" = "正在解除...";
+"kBinding" = "正在绑定...";
+"kChanging" = "正在更换...";
+"kChecking" = "正在检查...";
+"kNotBound" = "尚未绑定";
+"kBound" = "已绑定";
+"kRemoveBinding" = "解除绑定";
+"kMyWeChatBind" = "微信";
+"kMyMobilePhoneNumberBind" = "绑定手机号";
+"kMyMobilePhoneNumberUnBind" = "解绑手机号";
+"kMyMobilePhoneNumberChange" = "更换手机号";
+"kMyMobilePhoneNumberCheck" = "验证原手机号";
+"kMyMobilePhoneNumber" = "手机号";
+"kMyMobilePhoneNumberDesc" = "为保证账号安全请尽快绑定手机号";
+"kWillNotBeAbleToUseThisPhoneNumberToLogIn" = "将无法使用此手机号登录";
+"kWillNotBeAbleToUseThisWechatLogin" = "将无法使用此微信登录";
+
+"kWeChatCustomerService" = "客服微信";
+"kIfYouEncounterAProblemPleaseContactCustomerService" = "如遇登录问题,请联系客服";
+
+"kFreeCharge" = "免费";
+
+"kBeenPurchased" = "已购";
+
+"kYouHavePurchasedThisPractice" = "您已购买该实务";
+
+"kPleaseAtLeastSelectedPractice" = "至少购买一个实务";
+"kAbsolutelyEmptyCart" = "购物车空空如也";
+
+"kSelectAll" = "全选";
+"kMessage" = "留言";
+"kTotalAmount" = "合计";
+"kSettlement" = "结算(%d)";
+
+"kJoinPayCarting" = "正在加入购物车";
+"kJoinPayCart" = "加入购物车";
+"kJoinedPayCart" = "已加入购物车";
+"kJoinedPayCartDePractice" = "已选中购物车的实务";
+"kPayCartMoney" = "购买";
+
+"kTimeDuration" = "时长";
+
+"kTotalStrip" = "共%d条";
+"kHasBeenSelectedStrip" = "已选中%d条";
+
+"kClickToSuspendDownload" = "点击可暂停下载";
+"kHasBeenSuspendedClickToContinueToDownload" = "已暂停，点击继续下载";
+
+"kHaveBeenAddedToTheDownloadQueue" = "已加入下载队列";
+"kDownloadCourse" = "下载中";
+"kDownloadEnd" = "已下载";
+"kDownloadWaiting" = "待下载";
+"kPraiseLogin" = "有赞登录";
+"kPraiseKey" = "有赞";
+
+"kSearch" = "搜索";
+
+"kNoteKey" = "笔记";
+
+"kIKnew" = "我知道了";
+
+"kDownloadManager" = "下载管理";
+
+"kWelComePage" = "欢迎页";
+
+"kGetSubscriptioning" = "获取订阅,请稍等...";
+"kGetSubscriptionInfoFail" = "获取订阅详情失败";
+
+"kReturnToSubscription" = "返回订阅";
+
+"kPracticalQuestionsAndAnswers" = "实务问答";
+
+"kTheAudioisNotConfiguredPPTPicture" = "该音频没有配置PPT图片";
+
+"kNotFoundPlayRecord" = "没有对应的播放列表";
+"kThePracticeDoesNotSupportThePPT" = "该实务暂不支持PPT";
+"kTheSubscribeDoesNotSupportThePPT" = "该课程暂不支持PPT";
+
+"kRequestApplePaymentTimeout" = "苹果充值超时";
+"kRequestApplePaymentFailed" = "苹果充值失败";
+"kRequestWeChatPaymentFailed" = "微信充值失败";
+"kRequestAliPaymentFailed" = "支付宝充值失败";
+
+"kPraiseCountKey" = "个赞";
+
+"kAddAnswerKey" = "添加答案";
+"kSayAnswerKey" = "查看答案";
+
+"kPutForwardTheQuestion" = "提出了问题";
+"kAnswerTheQuestion" = "回答了问题";
+
+"kConsumptionRecord" = "支付记录";
+
+"kThemeInfo" = "主题介绍";
+"kTeamInfo" = "团队介绍";
+"kFitPeople" = "适合人群";
+"kMustKnow" = "订阅须知";
+"kNeedHelp" = "需要帮助";
+"kLatestPush" = "近期推送";
+
+"kLoginWithSurprise" = "点头像登录";
+"kListenToSomePractice" = "听点实务吧";
+
+"kBalance" = "余额";
+"kAccount" = "账号";
+"kAccountBind" = "账号绑定";
+"kAccountManager" = "账号管理";
+"kPurchaseRecord" = "支付记录";
+"kPlayList" = "播放列表";
+"kPlayAll" = "全部播放";
+"kProbation" = "试读";
+"kRecharge" = "充值";
+"kToRecharge" = "去充值";
+"kBalancePayment" = "余额支付";
+"kSubscriptionSuccess" = "订阅成功";
+"kRechargeSuccess" = "恭喜您，充值成功";
+"kEachWatch" = "每期看";
+"kContinuousListening" = "连续播";
+"kListKey" = "列表";
+"kHasBeenPrepaid" = "充值";
+"kHasBeenPurchased" = "购买";
+"kBalanceQuery" = "余额查询";
+"kShoppingCenter" = "购物中心";
+"kShoppingCart" = "购物车";
+"kToBePaid" = "待支付";
+"kHasBeenPaid" = "已支付";
+"kTheBalanceOfTheAccount" = "账户余额";
+"kYouWillSubscribeToTheContent" = "您将订阅[%@]的内容，订阅后不支持退订、转让，请再次确认";
+"kYouWillPracticeToTheContent" = "您将购买实务[%@]，购买后不支持退订、转让，请再次确认";
+"kYourBalanceIsInsufficientPleaseRechargeAfterTheSubscription" = "您的余额不足，请充值后再订阅";
+
+"kAccountBalancePaymentTips1" = "1. 苹果公司规定，苹果和非IOS终端的充值不能相互通用，且虚拟产品必须通过苹果系统支付购买，此处充值仅IOS系统使用。";
+"kAccountBalancePaymentTips2" = "2. 非中国大陆地区用户，请在APP Store的帐户设置中，将“国家/地区”改为“中国”，便可进行充值。";
+"kAccountBalancePaymentTips3" = "3. 通过APP Store充值，充值引导。";
+"kAccountBalancePaymentTips4" = "4. 充值失败/不会充值，前往微信公众号【梧桐Live】，解决你的所有问题。";
+
+"kReadFullText" = "阅读全文";
+
+"kPlayNow" = "正在播放";
+
+"kHasBeenSet" = "已订";
+
+"kManyPeopleSubscription" = "人订阅";
+
+"kSearchPracticeSubscribe" = "搜索实务、订阅";
+
+"kPleaseEnterNickname" = "请输入昵称";
+"kPleaseEnterPersonalizedSignature" = "请输入个性签名";
+
+"kGoToUnlock" = "前去解锁";
+"kPracticeHasNotYetBeenUnlocked" = "实务还未解锁";
+"kFirstToTheTaskCenterToCompleteTheTaskBar" = "先到任务中心完成任务吧";
+
+"kTaskKey" = "任务";
+"kUnlockTask" = "解锁任务";
+"kCongratulationsCompleteTheTask" = "恭喜您，完成任务";
+"kAcceptKey" = "接受";
+"kReturnToPractice" = "返回实务";
+"kTaskCenter" = "任务中心";
+
+"kUserCenter" = "个人中心";
+"kIndividual" = "个人";
+"kMyQuestion" = "我的问题";
+"kMyFans" = "我的粉丝";
+"kWaitAnswer" = "等我回答";
+
+"kHeAttention" = "他的关注";
+"kSheAttention" = "她的关注";
+"kHeCollection" = "他的收藏";
+"kSheCollection" = "她的收藏";
+
+"kHeQuestion" = "他的问题";
+"kSheQuestion" = "她的问题";
+"kHeFans" = "他的粉丝";
+"kSheFans" = "她的粉丝";
+"kHeAnswer" = "他的回答";
+"kSheAnswer" = "她的回答";
+
+"kSettingFontSize" = "设置字体大小";
+"kSettingFontSizeDescContent" = "请选择下面的字体大小，设置字体大小，设置后，会改变圈子[推荐、动态、最新]、话题详情、问题详情、答案详情、实务笔记、我的问题、我的收藏[答案]、我的关注[问题]的字体大小，如果在使用过程中存在问题或意见，可反馈给梧桐Live。";
+"kSettingFontSizeSuccess" = "成功设置字体大小";
+
+"kMySteriousPerson" = "神秘人物";
+"kYourPersonalInformationIsTooLittle" = "您的个人资料太少啦";
+"kPerfectImmediately" = "立即完善";
+
+"kTheAnswerIsAgreed" = "答案被同意";
+"kTheAnswerIsShared" = "答案被分享";
+"kTheAnswerIsCollected" = "答案被收藏";
+"kNotFilled" = "未填写";
+"kCompany" = "公司";
+
+"kIndustry" = "行业";
+"kResidence" = "居住地";
+"kSign" = "个性签名";
+
+"kPleaseSelect" = "请选择";
+"kFeedback" = "意见反馈";
+
+"kFeedbackYouCanAddThreePictures" = "您可以添加三张图片";
+"kFeedbackPictureLengthLimitCharacter" = "意见反馈图片限制%d张以内";
+
+"kMessageContentCanNotBeEmpty" = "留言内容不能为空";
+"kMessageContentLengthLimitCharacter" = "留言内容限制在1-%d字符";
+"kThankYouForYourValuableSuggestionsOnTheImprovementOfLive" = "有任何建议或疑问,请联系微信服务号:梧桐Live";
+"kFeedbackContentCanNotBeEmpty" = "反馈内容不能为空";
+"kFeedbackContentLengthLimitCharacter" = "反馈内容限制在%d-%d字符";
+"kThankYouForYourValuableAdviceAndWeWillDealWithItInATimelyManner" = "感谢您宝贵的意见,我们会根据您的反馈及时处理";
+
+"kOldPassword" = "原密码";
+"kPleaseEnterOldPassword" = "请输入原密码";
+"kNewPassword" = "新密码";
+"kPleaseEnterNewPassword" = "请输入新密码";
+
+"kRecommend" = "推荐";
+"kDynamic" = "动态";
+"kAllProblem" = "所有问题";
+"KTheLatestAnswer" = "最新答案";
+"kUser" = "用户";
+"kToolAnswer" = "我的答案";
+"kCommentsReceived" = "收到的评论";
+"kPersonnel" = "人员";
+"kQuestionsAndAnswers" = "问答";
+"kBoutiqueQuestionsAndAnswers" = "精品问答";
+
+"IHaveReadAndAgreedToThePlaneLiveUserAgreement" = "我已阅读并同意梧桐Live《用户使用协议》";
+
+"kPleaseDescribeWhatYouWantToFixInDetailAsMuchAsPossible" = "请尽可能详细的描述您要修正的内容";
+"kCorrectedContentCannotBeEmpty" = "修正内容不能为空";
+"kFixedContentLengthLimitCharacter" = "修正内容限制在1-%d字符";
+"kFixedContentHasBeenSuccessfullySubmitted" = "修正内容已成功提交,感谢您提供的宝贵信息";
+"kPleaseDoNotRepeatTheSameContent" = "请不要重复提交相同的内容";
+
+"kPleaseYourReportDesc" = "请对您的举报进行详细的描述";
+"kReportContentNotEmpty" = "举报内容不能为空";
+"kReportContentLengthLimitCharacter" = "举报内容限制[%d-%d]字符以内";
+
+"kHotSearch" = "热门搜索";
+
+"kAccountingDetail" = "会计详情";
+"kBrokerDetail" = "券商详情";
+"kLawyerDetail" = "律师详情";
+
+"kQuestionEditorSuccess" = "问题编辑成功";
+
+"kInstitutionalDetail" = "机构详情";
+"kReadyDownload" = "准备下载...";
+"kDownloading" = "正在下载...";
+"kDownloadSuccess" = "下载成功";
+"kDownloadFail" = "下载失败";
+
+"kRankTitle" = "排名";
+"kThreeNewBoard" = "新三板";
+"kListingTheNumber" = "挂牌数量";
+
+"kSerialNumber" = "序号";
+"kCompanyCode" = "公司代码";
+"kCompanyName" = "公司名称";
+"kNickName" = "姓名";
+"kAccounting" = "会计";
+"kBroker" = "券商";
+"kLawyer" = "律师";
+
+"kCorrection" = "修正";
+
+"kPleaseWriteDownYourValuableReply" = "请写下您宝贵的回答";
+"kBeingProcesseding" = "正在处理图片...";
+"kEditorSuccessful" = "成功编辑回答";
+"kAnswerTheContentCanNotHaveIMGTags" = "回答内容不能有IMG标签";
+"kAnswerTheContentCanNotBeEmpty" = "回答内容不能为空";
+"kAnswerTheContentLengthLimitCharacter" = "回答内容限制[%d-%d]字符";
+"kAnswerThePictureLengthLimitNumber" = "回答图片限制%d张以内";
+"kSuccessAnswersQuestions" = "成功回答问题";
+"kNoProblemCanNotAnswer" = "没有关联问题,不能回答";
+"kBeingInserteding" = "正在插入图片...";
+"kPictureSizeDoesNotMeetTheRequirements" = "该图片不符合屏幕尺寸比例";
+
+"kAttention" = "关注";
+"kAlreadyAttention" = "已关注";
+
+"kAttentionToNumber" = "%ld个关注";
+"kAnswerToNumber" = "%ld个答案";
+
+"kPracticeDetail" = "实务详情";
+"kFailedToReadAudioFile" = "语音文件读取失败";
+
+"kTheListOfPerformanceOfALawFirm" = "律师事务所业绩清单";
+"kAccountingFirmPerformanceList" = "会计事务所业绩清单";
+"kListOfSecuritiesCompaniesPerformance" = "证券公司业绩清单";
+
+"kLawFirm" = "律师事务所";
+"kAccountingFirm" = "会计事务所";
+"kSecuritiesCompany" = "证券公司";
+
+"kTheListOfALawFirm" = "业绩清单";
+
+"kYetOpenedPleaseLookForwardTo" = "暂未开通,敬请期待";
+
+"kCancelAttention" = "取消关注";
+"kCancelAttentionSuccess" = "成功取消关注";
+"kAttentionSuccess" = "关注成功";
+"kAddBlackListSuccess" = "成功加入黑名单";
+
+"kTheCurrentNetworkIsNotAvailable" = "当前网络不可用，请检查您的网络设置";
+
+"kMessageCenter" = "消息中心";
+"kTextKey" = "文本";
+"kPracticalIntroduction" = "实务简介";
+"kNewest" = "最新";
+"kHot" = "热门";
+
+"kHotQuestion" = "热门提问";
+
+"kSpeaker" = "主讲人";
+"kSpeakerIntroduction" = "主讲人简介";
+"kEachCourseIntroduction" = "每期看课程简介";
+"kUpdateTo" = "更新时间";
+
+
+"kRegister" = "注册";
+"kLogin" = "登录";
+
+"kForgetPassword" = "忘记密码";
+"kRegisterSpace" = "注册";
+"kLoginSpace" = "登录";
+
+"kYouCanAlsoSelectTheFollowingWayToLogin" = "您还可以选择以下方式登录";
+"KCancelAuthorizationLogin" = "取消授权登录";
+"kAuthorizationLoginFail" = "授权登录失败";
+"KCancelAuthorization" = "取消授权";
+"kAuthorizationFail" = "授权失败";
+
+"kNowRefister" = "立即注册";
+"kRegisterAndLoginSuccess" = "注册并登录成功";
+"kLoginFail" = "登录失败";
+"kLoginSuccess" = "登录成功";
+"kPleaseAgreeToTheLiveUseAgreement" = "请同意梧桐Live使用协议";
+
+"kPleaseEnterPhoneOrEmail" = "请输入手机号/邮箱";
+"kPleaseEnterPhone" = "请输入手机号";
+
+"kCommentYourAnswer" = "评论了您的答案";
+"kReplyYourComment" = "回复了您";
+"kAnswerYourQuestion" = "回答了您的问题";
+"kAnswerHeQuestion" = "回答了他的问题";
+"kAnswerSheQuestion" = "回答了她的问题";
+"kInvitationYourAnswerQuestion" = "邀请您回答问题";
+
+"kInvitationQuestionAnswer" = "邀请回答";
+"kInvitationYourLikeUser" = "邀请您想邀请的用户";
+
+"kFontBackPassword" = "找回密码";
+"kNowForget" = "立 即 找 回";
+"kPhoneOrEmailNotEmpty" = "手机号或邮箱不能为空";
+"kPleaseEnterRightPhoneOrEmail" = "请输入正确的手机号或邮箱";
+"kPhoneNotEmpty" = "手机号不能为空";
+"kPleaseEnterRightPhone" = "请输入正确的手机号";
+"kNewPasswordNotEmpty" = "新密码不能为空";
+"kPasswordNotEmpty" = "密码不能为空";
+"kOriginalPasswordNotEmpty" = "原始密码不能为空";
+"kNewPasswordLengthLimitCharacter" = "新密码限制[6-16]数字或字母";
+"kPasswordLengthLimitCharacter" = "密码限制[6-16]数字或字母";
+"kOriginalPasswordLengthLimitCharacter" = "原始密码限制[6-16]数字或字母";
+"kTheNewPasswordCanNotBeConsistentWithTheOriginalPassword" = "新密码不能与原始密码一致";
+"kPasswordHasBeenModifiedSuccessfully" = "密码已修改成功,请重新登录";
+
+"kPleaseEnterCode" = "请输入验证码";
+"kGetCode" = "获取验证码";
+"kSendCode" = "发送验证码";
+"kReSendCode" = "重新发送";
+"kPleaseEnterRightCode" = "请输入6位的验证码";
+"kPleaseEnterNewPasswordLengthLimitCharacter" = "请输入6-16位的新密码";
+"kPleaseEnterPasswordLengthLimitCharacter" = "请输入6-16位的密码";
+"kPasswordForgetSuccess" = "密码成功找回,请重新登录";
+"kCodeSendSuccess" = "验证码发送成功";
+
+"kNickNameNotEmpty" = "昵称不能为空";
+"kNickNameLengthLimitCharacter" = "昵称[1-%d]的字母,数字,汉字";
+"kSignLengthLimitCharacter" = "个性签名限制%d字符以内";
+"kTradeLengthLimitCharacter" = "行业内容限制%d字符以内";
+"kCompanyNameLengthLimitCharacter" = "公司名称限制%d文字以内";
+
+"kPersonalInformationEditorSuccess" = "个人资料编辑成功";
+"kIsEditingPersonalInformationDetermineToGiveUpTheEditor" = "正在编辑个人资料,确定放弃编辑吗?";
+
+"kYourDeviceDoesNotSupportTheCamera" = "您的设备不支持相机";
+"kThePhotosYouHaveSelectedHaveBeenCorrupted" = "您选择的照片已损坏";
+"kThePhotosYouHaveCutHaveBeenCorrupted" = "您裁剪的照片已损坏";
+"kYouAreUsingParentalControl" = "您正在使用家长控制权限";
+"kYouDisableTheAlbumOpenTheAlbumInTheSettingsToUse" = "您禁用了相册,请在设置中开启相册功能后，才能使用";
+"kYouDisableTheCameraOpenTheCameraInTheSettingsToUse" = "您禁用了相机,请在设置中开启相机功能后，才能使用";
+
+"kWriteDownYourComments" = "写下您的评论...";
+
+"kPleaseEnterTheCode" = "请输入验证码";
+"kClickSendCodeToPhone" = "点击发送验证码到手机号[%@]";
+"kSendCodeToPhoneSuccess" = "已经向手机号[%@]发送了验证码";
+
+"kEnterTheTopic" = "进入话题";
+
+"kPutQuestion" = "提问";
+"kQuestionDesc" = "问题描述";
+
+"kClickSearchQuestionOrAnswerOrUser" = "点击搜索问答、用户";
+
+"kPleaseEnterTheQuestionDesc" = "请输入您问题的具体描述(非必填,可跳过)";
+"kkQuestionDescLengthLimitCharacter" = "问题描述长度限制[0-%d]字符";
+
+"kAddTopic" = "添加话题";
+"kSearchTopicKeyword" = "搜索话题关键字";
+"kNotThisTopicClickAdd" = "还没有相关话题，点击添加";
+"kPleaseSelectTopicNone" = "请至少选择一个话题";
+"kPleaseSelectTopicMaxLength" = "最多选择%d个关联话题";
+"kPleaseRelationTopicNone" = "请再多关联一个话题";
+"kTopicNotEmpty" = "话题不能为空";
+"kTopicLengthLimitCharacter" = "话题长度限制[1-%d]字符";
+"kTopicAddSuccess" = "话题添加成功";
+"kTopicAddFail" = "话题添加失败";
+
+
+"kPleaseEnterTheQuestionTitle" = "请输入您的问题标题";
+"kQuestionNotEmpty" = "问题不能为空,说点什么吧";
+"kWhatYouSay" = "说点什么吧";
+"kQuestionTitleLengthLimitCharacter" = "问题长度限制[%d-%d]字符";
+
+"kNews" = "新闻";
+"kNewsDetail" = "新闻详情";
+
+"kGetPracticeing" = "获取实务,请稍等...";
+"kGetPracticeInfoFail" = "获取实务信息失败";
+
+"kAgree" = "同意";
+
+"kRefresh" = "刷新";
+"kLookQuestion" = "看看问题";
+"kNowLogin" = "立即登录";
+
+"kFilePath" = "文件地址";
+
+"kAuthorSuccess" = "授权成功";
+"kAuthorFail" = "授权失败";
+"kAuthorCancel" = "取消授权";
+
+"kReportSuccess" = "举报成功";
+"kReportAnswer" = "举报答案";
+"kReportUser" = "举报用户";
+"kReportQuestion" = "举报问题";
+
+"kCancelEmpty" = "取 消";
+
+"kOpen" = "展开";
+"kPackUp" = "收起";
+"kSayAll" = "查看全部";
+
+"kPleaseEnterTheTopic" = "请输入话题";
+
+"kPlayCurrent" = "播放当前";
+"kPlayPractice" = "播放实务";
+"kSearchQuestion" = "搜索问答";
+"kSearchPractice" = "搜索实务";
+"kQuickQuestion" = "快速提问";
+"kLaterUpdating" = "稍后更新";
+"kNoLongerUpdating" = "不再提示";
+"kRightNowUpdating" = "马上更新";
+
+"kClearCache" = "清除缓存";
+"kFontSize" = "字体大小";
+"kAbout" = "关于";
+"kGoScore" = "去评分";
+"kPushNotification" = "推送通知";
+"kPushSetting" = "推送设置";
+"kUpdatePassword" = "修改密码";
+"kBlacklistManager" = "黑名单管理";
+
+"kSmall" = "小";
+"kStandard" = "标准";
+"kSecondary" = "中等";
+"kLarge" = "大";
+"kExtremely" = "极大";
+
+"kJust" = "刚刚";
+
+"kReply" = "回复";
+
+"kExitAccount" = "退出账号";
+
+"kAnwerDetail" = "答案详情";
+
+"kReplyComment" = "回复评论";
+"kReportComment" = "举报评论";
+
+"kJoinBlacklist" = "加入黑名单";
+
+"kYouDaoYunBiJi" = "有道云笔记";
+"kYinXiangBiJi" = "印象笔记";
+
+"kJunkAds" = "垃圾广告";
+"kNotFriendlyContent" = "不友善内容";
+"kIllegalInformation" = "违法信息";
+"kPoliticallySensitive" = "政治敏感";
+"kOther" = "其他";
+
+"kAddAnswer" = "添加回答";
+"kAddQuestion" = "添加问题";
+
+"kEditAnswer" = "编辑回答";
+"kEditQuestion" = "编辑问题";
+"kEditUserInfo" = "编辑个人资料";
+"kEditTopic" = "编辑话题";
+
+"kDeleteQuestion" = "删除问题";
+"kDeleteAnswer" = "删除答案";
+
+"kMyCollection" = "我的收藏";
+"kMyAnswer" = "我的回答";
+"kMyAttention" = "我的关注";
+"kMyFeedback" = "意见反馈";
+"kMyAgreement" = "使用协议";
+"kMyNoticeCenter" = "消息中心";
+"kMyComment" = "评论";
+
+"kCircelSearchPlaceholder" = "点击搜索机构、人员";
+
+"kCancelCollection" = "取消收藏";
+
+"kCShareTitleSuccess" = "分享成功";
+"kCShareTitleNoAuthorizeError" = "尚未授权";
+"kCShareTitleError" = "分享失败";
+"kCShareTitleCancel" = "取消分享";
+
+"kCQQNoInstalled" = "请安装QQ客户端";
+"kCQQNoSupportApi" = "请更新QQ客户端";
+
+"kCWeChatNoInstalled" = "请安装微信客户端";
+"kCWeChatNoSupportApi" = "请更新微信客户端";
+
+"kCSinaWeiboNoInstalled" = "请安装新浪微博客户端";
+"kCSinaWeiboNoSupportApi" = "请更新新浪微博客户端";
+
+"kCQQFriend" = "QQ好友";
+"kCQZone" = "QQ空间";
+"kCWeChat" = "微信";
+"kCWeChatFriend" = "微信好友";
+"kCWeChatTimeline" = "朋友圈";
+
+"kCPhotograph" = "拍照";
+"kCAlbum" = "相册";
+"kCMale" = "男";
+"kCFemale" = "女";
+"kCPhoto" = "头像";
+"kCNickName" = "昵称";
+"kCGender" = "性别";
+
+"kCNickNameContent" = "取个好听的昵称吧";
+"kCGenderSecrecy" = "保密";
+
+"kEducation" = "学历";
+"kJoinTime" = "入行时间";
+"kBirthday" = "生日";
+
+
+///Message
+
+"kCMsgDoneDeleteAnswer" = "确定删除当前的答案吗?";
+"kCMsgDoneDeleteQuestion" = "确定删除当前的问题吗?";
+"kCMsgQuestionDeleteSuccess" = "问题删除成功";
+"kCMsgAnswerDeleteSuccess" = "答案删除成功";
+"kCMsgFileDeleteSuccess" = "文件删除成功";
+
+"kCMsgCollectionSuccess" = "收藏成功";
+"kCMsgCancelCollectionSuccess" = "取消收藏成功";
+
+"kCMsgReplyContentRestrictedCharacter" = "回复内容限制[1-%d]字符";
+"kCMsgCommentContentRestrictedCharacter" = "评论内容限制[1-%d]字符";
+
+"kCMsgGetAnswerDetailFail" = "获取答案详情失败";
+
+"kCMsgDoneExitLoginUser" = "确定退出当前登录用户吗?";
+"kCMsgDoneClearLocalCacheFile" = "确定清除本地缓存文件吗?";
+
+"kCMsgClearCacheSuccess" = "缓存清除成功";
+
+"kCMsgPayNotSupported" = "客户端不支持";
+
+"kCMsgGeting" = "正在获取...";
+"kCMsgPraiseing" = "正在点赞...";
+"kCMsgCollecting" = "正在收藏...";
+"kCMsgPaying" = "正在支付...";
+"kCMsgQuestioning" = "正在提问...";
+"kCMsgAdding" = "正在添加...";
+"kCMsgDeleting" = "正在删除...";
+"kCMsgEditing" = "正在编辑...";
+"kCMsgFotgeting" = "正在找回...";
+"kCMsgSending" = "正在发送...";
+"kCMsgRegisting" = "正在注册...";
+"kCMsgLoging" = "正在登录...";
+"kCMsgReporting" = "正在举报...";
+"kCMsgMessaging" = "正在留言...";
+"kCMsgAnswering" = "正在回答...";
+"kCMsgSubmiting" = "正在提交...";
+"kCMsgAccepting" = "正在接受...";
+"kCMsgReleaseing" = "正在发布...";
+"kCMsgOrdering" = "正在订购...";
+"kCMsgRecharging" = "正在充值...";
+
+"kCMsgQuestionAddSuccess" = "问题发布成功";
+"kCMsgTopicAddSuccess" = "话题添加成功";
+
+"kCMsgLogoutSuccess" = "注销成功";
+"kCMsgCommentSuccess" = "评论成功";
+"kCMsgReplySuccess" = "回复成功";
+
+"kCMsgPurchaseSuccess" = "购买成功";
+"kCMsgPaySuccess" = "支付成功";
+"kCMsgPayCancel" = "取消支付";
+"kCMsgAuthCancel" = "取消授权";
+"kCMsgPayAuthDeny" = "授权失败";
+"kCMsgPayCommon" = "支付失败";
+"kCMsgSendFail" = "请求失败";
+"kCMsgMessageSuccess" = "留言成功";
+
+"kCMsgContentError" = "网络连接错误";
+"kCMsgContentUnusual" = "网络未知错误";
+"kCMsgShowTrafficPlayPrompt" = "您现在使用的是运营商网络，继续播放可能产生小额流量费";
+"kCMsgShowDownloadPlayPrompt" = "您现在使用的是运营商网络，继续下载可能产生小额流量费";
+"kCContinuePlay" = "继续播放";
+"kCCancelPlay" = "取消播放";
+

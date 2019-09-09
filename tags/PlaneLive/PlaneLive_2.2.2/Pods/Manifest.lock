@@ -1,0 +1,114 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - Bugly (2.4.8)
+  - DACircularProgress (2.3.1)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/SQLCipher (2.6.2):
+    - SQLCipher
+  - FMDB/standard (2.6.2)
+  - Masonry (1.0.2)
+  - MBProgressHUD (1.0.0)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - MOBFoundation (2.2.19)
+  - SDCycleScrollView (1.66):
+    - SDWebImage (~> 4.0.0)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - SECoreTextView (0.8.5)
+  - ShareSDK3 (3.6.3):
+    - MOBFoundation
+    - ShareSDK3/ShareSDK (= 3.6.3)
+  - ShareSDK3/ShareSDK (3.6.3):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKConfigurationFile (3.6.3):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKExtension (3.6.3):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKPlatforms/Evernote (3.6.3):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKPlatforms/QQ (3.6.3):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKPlatforms/WeChat (3.6.3):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKUI (3.6.3):
+    - MOBFoundation
+  - SQLCipher (3.4.1):
+    - SQLCipher/standard (= 3.4.1)
+  - SQLCipher/common (3.4.1)
+  - SQLCipher/standard (3.4.1):
+    - SQLCipher/common
+  - TYAttributedLabel (2.6.2)
+  - TZImagePickerController (1.7.9)
+  - UMengAnalytics-NO-IDFA (4.2.5)
+  - ZPlayerKit (1.0.2):
+    - FMDB
+  - ZPushKit (1.0.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Bugly
+  - DACircularProgress
+  - FMDB
+  - FMDB/SQLCipher
+  - Masonry
+  - MBProgressHUD
+  - MJExtension
+  - MJRefresh
+  - MOBFoundation
+  - SDCycleScrollView
+  - SDWebImage
+  - SECoreTextView
+  - ShareSDK3
+  - ShareSDK3/ShareSDKConfigurationFile
+  - ShareSDK3/ShareSDKExtension
+  - ShareSDK3/ShareSDKPlatforms/Evernote
+  - ShareSDK3/ShareSDKPlatforms/QQ
+  - ShareSDK3/ShareSDKPlatforms/WeChat
+  - ShareSDK3/ShareSDKUI
+  - TYAttributedLabel
+  - TZImagePickerController
+  - UMengAnalytics-NO-IDFA
+  - ZPlayerKit
+  - ZPushKit
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  Bugly: da3c02408c14838d498429320545a8e439392978
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  MOBFoundation: e962b2aee79e2b8f626e2d30c2f23e9f13e5331e
+  SDCycleScrollView: e3ade90e9b3159bec04330b208fbfd81c3f3b671
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  SECoreTextView: 5f3bedc0c9ffc2f4c109c37142f25c12f37368dd
+  ShareSDK3: d271520113160eb24b31cd642b45b38fcd592d93
+  SQLCipher: 43d12c0eb9c57fb438749618fc3ce0065509a559
+  TYAttributedLabel: 1c1f1e7604043ba584e005d4fd3aee8a1a7a2020
+  TZImagePickerController: 0a8ff228d287ebdd7d485e8c42a2a932894f1fba
+  UMengAnalytics-NO-IDFA: 16666e32edce5be44ae5b14aaaa7f3582e09d6ab
+  ZPlayerKit: da925697b21e707b2acaca776ad731456e45dec9
+  ZPushKit: af7e0503e68280ac1f475ccaaa79e9a22d4ef1f5
+
+PODFILE CHECKSUM: 5022df87d363a99288405eb8275ce540ff241bf0
+
+COCOAPODS: 1.2.1

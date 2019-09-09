@@ -1,0 +1,17 @@
+
+
+target "PlaneLive" do
+
+pod "AFNetworking"
+pod "FMDB"
+pod "MBProgressHUD"
+pod "MJExtension"
+pod "MJRefresh"
+pod "SDWebImage"
+pod "pop"
+pod "SECoreTextView"
+pod "TYAttributedLabel"
+pod "DACircularProgress"
+pod "FMDB/SQLCipher"
+
+end

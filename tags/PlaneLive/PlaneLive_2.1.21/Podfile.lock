@@ -1,0 +1,101 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - Bugly (2.4.6)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/SQLCipher (2.6.2):
+    - SQLCipher
+  - FMDB/standard (2.6.2)
+  - MBProgressHUD (1.0.0)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - MOBFoundation (2.2.13)
+  - SDCycleScrollView (1.65):
+    - SDWebImage (~> 3.7)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SECoreTextView (0.8.5)
+  - ShareSDK3 (3.6.0):
+    - MOBFoundation
+    - ShareSDK3/ShareSDK (= 3.6.0)
+  - ShareSDK3/ShareSDK (3.6.0):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKConfigurationFile (3.6.0):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKExtension (3.6.0):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKPlatforms/Evernote (3.6.0):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKPlatforms/QQ (3.6.0):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKPlatforms/WeChat (3.6.0):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKUI (3.6.0):
+    - MOBFoundation
+  - SQLCipher (3.4.0):
+    - SQLCipher/standard (= 3.4.0)
+  - SQLCipher/common (3.4.0)
+  - SQLCipher/standard (3.4.0):
+    - SQLCipher/common
+  - TYAttributedLabel (2.6.2)
+  - TZImagePickerController (1.7.8)
+  - UMengAnalytics-NO-IDFA (4.2.5)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Bugly
+  - FMDB
+  - FMDB/SQLCipher
+  - MBProgressHUD
+  - MJExtension
+  - MJRefresh
+  - MOBFoundation
+  - SDCycleScrollView
+  - SDWebImage
+  - SECoreTextView
+  - ShareSDK3
+  - ShareSDK3/ShareSDKConfigurationFile
+  - ShareSDK3/ShareSDKExtension
+  - ShareSDK3/ShareSDKPlatforms/Evernote
+  - ShareSDK3/ShareSDKPlatforms/QQ
+  - ShareSDK3/ShareSDKPlatforms/WeChat
+  - ShareSDK3/ShareSDKUI
+  - TYAttributedLabel
+  - TZImagePickerController
+  - UMengAnalytics-NO-IDFA
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  Bugly: 7756e72c59387b0d490f46e83ab458ae94ee7fba
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  MOBFoundation: 1db1fdc4f1cf9130277cd01f66d6ee7d42a32510
+  SDCycleScrollView: f72904c77698a7f93a41bcbbc2d78b073bf7326c
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SECoreTextView: 5f3bedc0c9ffc2f4c109c37142f25c12f37368dd
+  ShareSDK3: f3cf584b1e753cce25535ac8161d0e3557e9b406
+  SQLCipher: 4c768761421736a247ed6cf412d9045615d53dff
+  TYAttributedLabel: 1c1f1e7604043ba584e005d4fd3aee8a1a7a2020
+  TZImagePickerController: 87a138ae5d585225aaa6c8abe2cface0f0ad19dd
+  UMengAnalytics-NO-IDFA: 16666e32edce5be44ae5b14aaaa7f3582e09d6ab
+
+PODFILE CHECKSUM: 58b85b092af81afde875d5beba2848678d663da3
+
+COCOAPODS: 1.2.0.beta.1
